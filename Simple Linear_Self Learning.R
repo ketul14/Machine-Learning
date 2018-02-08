@@ -1,7 +1,7 @@
 # Data Preprocessing Template
 
 # Importing the dataset
-dataset = read.csv('Salary_Data.csv')
+dataset = read.csv('ABC.csv')
 
 # Splitting the dataset into the Training set and Test set
 # install.packages('caTools')
