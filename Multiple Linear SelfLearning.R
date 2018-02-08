@@ -1,6 +1,6 @@
 
 # Importing the dataset
-dataset = read.csv('50_Startups.csv')
+dataset = read.csv('New Startup.csv')
 
 # Encoding categorical data
 dataset$State = factor(dataset$State,
